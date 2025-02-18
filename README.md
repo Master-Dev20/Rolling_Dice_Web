@@ -31,7 +31,7 @@ A simple Flask-based web application that simulates rolling a dice. When the use
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Master-Dev20/Rolling_Dice.git  
-cd project-directory  
+cd Rolling_Dice_Web 
 ```  
 ### 2️⃣ Install Dependencies  
 ```bash
